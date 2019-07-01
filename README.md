@@ -1,2 +1,7 @@
 # wero
 Hacer dinero
+
+
+
+
+

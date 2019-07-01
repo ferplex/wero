@@ -1,0 +1,2 @@
+# wero
+Hacer dinero

@@ -1,5 +1,5 @@
 # wero
-Hacer dinero
+open source
 
 
 
